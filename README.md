@@ -59,7 +59,7 @@ Esse endpoint está encarregado de fazer o login do usuário registrado no endpo
 }
 ```
 
-##/trainer
+## /trainer
 
 ex: **POST baseUrl/trainer <br/>
 Esse endpoint cria o treino que o usuário irá fazer. Para que o endpoint funcione é necessário passar o **userId\*\* no body da requisição. Ex:
