@@ -17,6 +17,7 @@ export const isAuthenticated = (req, res, next) => {
 
     
   } catch (error) {
-    res.status(500).json({ error: "aconteceu algo de errado!" });
+    console.log(error)
+    res.status(404).json({ error: "token inválido!" });
   }
 };
