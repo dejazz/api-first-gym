@@ -13,9 +13,6 @@
   "author": "Gabriel Schneider <gabrielmunizsch@gmail.com>",
   "license": "MIT",
   "type": "module",
-  "engines": {
-    "node": "14"
-  },
   "scripts": {
     "dev": "nodemon src/server.js"
   },
