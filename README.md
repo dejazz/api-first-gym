@@ -4,7 +4,8 @@ Essa Api possui atualmente 3 endpoints. Sendo 1 de cadastro, 1 de login, e 1 de 
 
 ## Base URL:
 
-base Url:
+base Url: 
+https://git.heroku.com/first-api-gym.git
 
 ## /user
 
