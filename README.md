@@ -14,10 +14,12 @@ esse endpoint é responsável pelo cadastro de novos usuários. Para que seu uso
 
 ```
 {
-	"name":"teste",
+	"name":"gabriel",
 	"cpf":"000000",
-	"email":"test@gmail.com",
-	"password":"12345"
+	"email":"gabriel@gmail.com",
+	"avatarUrl": "https://i.pinimg.com/280x280_RS/6a/45/af/6a45afa30247dad1fe7c6dfd8b3fb9fb.jpg",
+	"password":"Abc@1234"
+	
 }
 ```
 
@@ -25,9 +27,9 @@ esse endpoint é responsável pelo cadastro de novos usuários. Para que seu uso
 
 ```
 {
-	"name": "ApenasUmTeste",
+	"name": "gabriel",
 	"cpf": "0000000000",
-	"email": "testando123@gmail.com",
+	"email": "gabriel@gmail.com",
 	"avatarUrl": "https://i.pinimg.com/280x280_RS/6a/45/af/6a45afa30247dad1fe7c6dfd8b3fb9fb.jpg",
 	"trainers": [],
 	"updateAt": null,
@@ -45,8 +47,8 @@ Esse endpoint está encarregado de fazer o login do usuário registrado no endpo
 
 ```
 {
-	"email": "testando123@gmail.com",
-	"password":"12345"
+	"email": "gabriel@gmail.com",
+	"password":"Abc@1234"
 }
 
 ```
